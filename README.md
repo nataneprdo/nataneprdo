@@ -4,7 +4,7 @@
 <li> 🖳 Sei fazer coisas em HTML5 e CSS3 e desenvolvo em PHP, noção em JavaScript e Python</li>
 <li>🖥️ Possuo habilidades no Front-End e Back-End, direcionado ao desenvolvimento Web</li>
 <li>🖥️ WordPress, Banco de Dados MySQL são outras habilidades que possuo também</li>
-<li>🖥️ Atualmente estou aprendendo JavaScript</li>
+<li>🖥️ Atualmente estou aprendendo JavaScript e seus Frameworks e Docker e Laravel</li>
 </ul>
 
 <div style="display: inline_block"><br>
@@ -15,7 +15,10 @@
   <img align="center" alt="Natane-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Natane-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Natane-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg">
-  <img align="center" alt="Natane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">      
+  <img align="center" alt="Natane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Natane-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Natane-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+
 </div>
 <br>
 <div> 
