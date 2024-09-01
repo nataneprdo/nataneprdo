@@ -2,9 +2,9 @@
 <ul>
 <li>👧🏻 Olá, meu nome é Natane Priscila Ribeiro de Oliveira</li>
 <li> 🖳 Sei fazer coisas em HTML5 e CSS3 e desenvolvo em PHP, noção em JavaScript e Python</li>
-<li>🖥️ Possuo habilidades no Front-End e Back-End, direcionado ao desenvolvimento Web</li>
-<li>🖥️ WordPress, Banco de Dados MySQL são outras habilidades que possuo também</li>
-<li>🖥️ Atualmente estou aprendendo JavaScript e seus Frameworks e Docker e Laravel</li>
+<li>🖥️ Possuo habilidades no Front-End e Back-End, direcionado ao desenvolvimento Web e Desenvolvimento de Sistemas</li>
+<li>🖥️ WordPress, Banco de Dados são outras habilidades que possuo também</li>
+<li>🖥️ Atualmente estou aprendendo JavaScript e seus Frameworks, Desenvolvimento FullStack e Técnico em Desenvolvimento de Sistemas</li>
 </ul>
 
 <div style="display: inline_block"><br>
