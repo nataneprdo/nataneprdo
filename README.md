@@ -16,7 +16,8 @@
   <img align="center" alt="Natane-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Natane-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg">
   <img align="center" alt="Natane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React-Flutter" height="30" width="40" src="https://skillicons.dev/icons?i=react,flutter=3)](https://skillicons.dev">
+  <img align="center" alt="React" height="60" width="80" src="https://skillicons.dev/icons?i=react,=1)](https://skillicons.dev">
+  <img align="center" alt="Flutter" height="60" width="80" src="https://skillicons.dev/icons?i=flutter,=1)](https://skillicons.dev">
 
 </div>
 <br>
