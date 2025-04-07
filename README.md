@@ -1,10 +1,10 @@
 ### 🤩  Olá! Bem Vindo! 
 <ul>
 <li>👧🏻 Olá, meu nome é Natane Priscila Ribeiro de Oliveira</li>
-<li> 🖳 Sei fazer coisas em HTML5 e CSS3 e desenvolvo em PHP, noção em JavaScript e Python</li>
-<li>🖥️ Possuo habilidades no Front-End e Back-End, direcionado ao desenvolvimento Web e Desenvolvimento de Sistemas</li>
+<li> 🖳 Sei fazer coisas em HTML5 e CSS3 e desenvolvo em JavaScript, React Native, Flutter e Dart, além de noções em PHP e Python</li>
+<li>🖥️ Possuo habilidades no Front-End e Back-End, direcionado a Desenvolvimento de Sistemas</li>
 <li>🖥️ WordPress, Banco de Dados são outras habilidades que possuo também</li>
-<li>🖥️ Atualmente estou aprendendo JavaScript e seus Frameworks, Desenvolvimento FullStack e Técnico em Desenvolvimento de Sistemas</li>
+<li>🖥️ Atualmente estou aprendendo Flutter, Dart e React Native</li>
 </ul>
 
 <div style="display: inline_block"><br>
@@ -16,8 +16,7 @@
   <img align="center" alt="Natane-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Natane-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg">
   <img align="center" alt="Natane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Natane-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Natane-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="React-Flutter" height="30" width="40" src="https://skillicons.dev/icons?i=react,flutter=3)](https://skillicons.dev">
 
 </div>
 <br>
